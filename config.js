@@ -4,17 +4,17 @@ const chalk = require('chalk')
 global.apikey = '-' //https://api.lolhuman.xyz
 global.rosekey = '-' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'Adrian-MD V2.1'
-global.namaowner = 'Arxzy お-ぎ'
+global.namabot = 'Elaina-MD V2.1'
+global.namaowner = 'Fathur お-ぎ'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6289513081052'
-global.ownernomer = ["6289513081052"]
-global.premium = ['6289513081052']
+global.owner = '6281260431003'
+global.ownernomer = ["6281260431003"]
+global.premium = ['6281260431003']
 
 //—————「 Set Wm 」—————//
 global.packname = ''
-global.author = 'Arxzy お-ぎ'
+global.author = 'Fathur お-ぎ'
 global.prefa = ['', '.']
 global.sp = '•'
 
